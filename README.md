@@ -1,4 +1,5 @@
 # Ex11 Convert HashSet to ArrayList in Java
+## DATE:03/08/2026
 ## AIM:
 To convert a collection of distinct integers stored in a HashSet into an ArrayList and display its contents.
 ## Algorithm
@@ -55,6 +56,7 @@ The program successfully converts a collection of distinct integers stored in a 
 
 
 # Ex12 Add Elements from an Array into a TreeSet
+## DATE:04/08/2026
 ## AIM:
 To write a Java program that adds elements from an array into a TreeSet and displays the elements in sorted order.
 ## Algorithm
@@ -115,6 +117,7 @@ The program successfully adds elements from an array into a TreeSet.
 
 
 # Ex13 Fill the First 10 Elements of an Array with a Constant using Arrays.fill()
+## DATE:04/08/2026
 ## AIM:
 To write a Java program that fills the first 10 elements of an array with a constant value using the Arrays.fill() method.
 ## Algorithm
@@ -167,6 +170,7 @@ The program successfully fills the first 10 elements of the array with the const
 
 
 # Ex14 Tracking the First Unique Number in a Stream using LinkedHashMap
+## DATE:06/08/2026
 ## AIM:
 To implement a program that tracks the first unique (non-repeating) number in a stream of integers using a LinkedHashMap.
 
@@ -238,6 +242,7 @@ The program successfully tracks and returns the first unique number at any point
 
 
 # Ex15 Value Existence Check in a TreeMap
+## DATE:06/08/2026
 ## AIM:
 To write a Java program that checks whether a given value exists in a TreeMap.
 
